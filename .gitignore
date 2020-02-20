@@ -1,2 +1,6 @@
 !\.gitignore
+/.idea
 build/
+result/
+tests/config/dut_config.yml
+*.pyc
